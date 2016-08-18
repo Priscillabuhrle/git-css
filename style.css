@@ -52,6 +52,7 @@ color: #FFFF80;
 .innertube{
 margin: 10px;
 margin-top: 0;
+
 }
 @media (max-width: 600px){
 	#contentwrapper{
@@ -72,7 +73,6 @@ margin-top: 0;
 	}
 }
 /* ####### Acá va su código ####### */
-<<<<<<< HEAD
 img {
 	width: 180px;
 	height: 180px;
@@ -80,16 +80,15 @@ img {
 h1 {
 	font-size: 50px;
 	text-align: center;
-	font-family: cursive;
+
 }
 table{
 	border: 1px solid purple;
+	margin:auto;
 }
-=======
 #contentcolumn .innertube {
 	background-color: #F4AF65;
 	border-radius: 30px;
 	padding: 10px;
 }
 
->>>>>>> comados
