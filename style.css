@@ -63,12 +63,16 @@ margin-top: 0;
 	width: 100%;
 	margin-left: 0;
 	}
+
+
 	
 	#contentcolumn{
 	margin-left: 0;
+	
 	}
 }
 /* ####### Acá va su código ####### */
+<<<<<<< HEAD
 img {
 	width: 180px;
 	height: 180px;
@@ -81,3 +85,11 @@ h1 {
 table{
 	border: 1px solid purple;
 }
+=======
+#contentcolumn .innertube {
+	background-color: #F4AF65;
+	border-radius: 30px;
+	padding: 10px;
+}
+
+>>>>>>> comados
