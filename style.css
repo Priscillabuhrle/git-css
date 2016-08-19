@@ -10,7 +10,7 @@ em{color: red;}
 
 
 #topsection{
-background: #EAEAEA;
+background: #fdfae0;
 padding-bottom: 50px;
 padding-top: 50px;
 }
@@ -18,11 +18,13 @@ padding-top: 50px;
 #topsection h1{
 margin: 0px;
 padding-top: 15px;
+color: #9a9994;
 }
 
 #contentwrapper{
 float: left;
 width: 100%;
+
 }
 
 #contentcolumn{
@@ -87,11 +89,28 @@ table{
 	margin:auto;
 }
 #contentcolumn .innertube {
-	background-color: #F4AF65;
+	background-color: #fdd2a3;
 	border-radius: 30px;
 	padding: 10px;
 }
 img:hover {
     opacity: 0.5;
     filter: alpha(opacity=100);
+}
+
+dl#definitions{
+	color: #8e8c84;
+
+}
+
+dl#definitions dt {
+	font-weight: bold;
+}
+
+dd{
+	font-style: italic;
+}
+
+.innertube h1{
+color: #8e8c84	
 }
